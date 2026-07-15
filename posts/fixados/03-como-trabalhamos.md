@@ -3,6 +3,12 @@
 **Objetivo:** Explicar o processo de compra/atendimento, gerando confiança em quem ainda não comprou.
 **Formato sugerido:** Carrossel (passo a passo) ou reels mostrando o processo.
 
+## Imagem
+
+![Post Como Trabalhamos](imagens/03-como-trabalhamos.jpg)
+
+Versão single-image com os 5 passos em timeline vertical, fundo grafite igual ao post "Quem Somos" para fechar o trio com identidade coesa.
+
 ## Legenda
 
 ⚙️ Como funciona comprar com a AZ Pesados?
@@ -35,5 +41,5 @@ Simples assim: menos tempo parado, mais tempo rodando. 🚛🔩
 ## Status
 
 - [ ] Legenda revisada
-- [ ] Arte/imagem produzida
+- [x] Arte/imagem produzida
 - [ ] Publicado e fixado no perfil

@@ -3,6 +3,12 @@
 **Objetivo:** Apresentar a AZ Pesados para quem chega no perfil pela primeira vez.
 **Formato sugerido:** Carrossel (capa + 3-4 slides) ou imagem única com peça em destaque.
 
+## Imagem
+
+![Post Quem Somos](imagens/01-quem-somos.jpg)
+
+Arte gerada seguindo a identidade visual do site (site-az): grafite `#1B1B1B`, vermelho vinho `#933235`, tipografia Space Grotesk/Inter, foto real do alternador em destaque.
+
 ## Legenda
 
 🔧 Bem-vindo à AZ Pesados!
@@ -29,5 +35,5 @@ Segue a gente e fica por dentro de dicas, novidades e bastidores do nosso trabal
 ## Status
 
 - [ ] Legenda revisada
-- [ ] Arte/imagem produzida
+- [x] Arte/imagem produzida
 - [ ] Publicado e fixado no perfil

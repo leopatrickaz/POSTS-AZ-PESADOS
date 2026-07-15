@@ -3,6 +3,12 @@
 **Objetivo:** Mostrar por que escolher a AZ Pesados na hora de comprar motor de partida ou alternador.
 **Formato sugerido:** Carrossel (1 diferencial por slide) ou vídeo curto/reels.
 
+## Imagem
+
+![Post Nossos Diferenciais](imagens/02-diferenciais.jpg)
+
+Versão single-image com os 4 principais diferenciais em grade de cards, mesma identidade visual do site (fundo claro, como a seção de Produtos/Serviços do site).
+
 ## Legenda
 
 ✅ Por que fechar com a AZ Pesados?
@@ -33,5 +39,5 @@ Na hora que sua máquina ou caminhão precisar, você já sabe onde encontrar. �
 ## Status
 
 - [ ] Legenda revisada
-- [ ] Arte/imagem produzida
+- [x] Arte/imagem produzida
 - [ ] Publicado e fixado no perfil

@@ -7,7 +7,7 @@
 
 ![Post Nossos Diferenciais](imagens/02-diferenciais.jpg)
 
-Versão single-image com os 4 principais diferenciais em lista numerada com regras finas (não é o grid de cards do site) — mesma paleta clara/vermelho vinho, composição própria para o Instagram.
+Versão single-image com os 4 principais diferenciais em lista numerada com regras finas (não é o grid de cards do site), fundo claro liso — mesma paleta clara/vermelho vinho, composição própria para o Instagram.
 
 ## Legenda
 

@@ -7,7 +7,7 @@
 
 ![Post Quem Somos](imagens/01-quem-somos.jpg)
 
-Composição própria (faixa de texto + faixa de produto), usando a paleta e tipografia do site (grafite `#1B1B1B`, vermelho vinho `#933235`, Space Grotesk/Inter) para o post "encaixar" no feed junto do site — sem repetir o layout do hero nem o texto do site.
+Composição própria: título de impacto ("Confiança que liga de primeira.") e as duas peças que a AZ vende — motor de partida + alternador — lado a lado. Usa a paleta e tipografia do site (grafite `#1B1B1B`, vermelho vinho `#933235`, Space Grotesk/Inter) para o post "encaixar" no feed junto do site, sem repetir o layout do hero nem o texto do site.
 
 ## Legenda
 

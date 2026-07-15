@@ -7,7 +7,7 @@
 
 ![Post Nossos Diferenciais](imagens/02-diferenciais.jpg)
 
-Versão single-image com os 4 principais diferenciais em lista numerada com regras finas (não é o grid de cards do site), fundo claro liso — mesma paleta clara/vermelho vinho. Título e números usam a fonte Sora (os outros dois posts fixados usam Space Grotesk). Ícones desenhados à parte em badges preenchidos, escolhidos para conversar com cada título: etiqueta (peça nova), caminhão (aplicações), avanço rápido (atendimento ágil) e escudo com check (garantia) — sem repetir os ícones (lucide) usados no site.
+Versão single-image com os 4 principais diferenciais em lista numerada com regras finas (não é o grid de cards do site), fundo claro liso — mesma paleta clara/vermelho vinho. Título e números usam a fonte Sora (os outros dois posts fixados usam Space Grotesk). Ícones voltaram ao conceito original (escudo, raio, relógio, medalha), mas em badge vermelho preenchido em vez do contorno fino em círculo do site — mesma leitura de cada título, visual diferente do site.
 
 ## Legenda
 

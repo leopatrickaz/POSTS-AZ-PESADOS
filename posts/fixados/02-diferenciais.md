@@ -13,17 +13,17 @@ Versão single-image com os 4 principais diferenciais em lista numerada com regr
 
 ✅ Por que fechar com a AZ Pesados?
 
-1️⃣ **Peças 100% novas** — nada de recondicionado. Motor de partida e alternador novos, prontos para rodar com segurança.
+1️⃣ **Peças 100% novas** — nada de recondicionado. Motor de partida e alternador novos, prontos para uso com segurança.
 
-2️⃣ **Variedade de aplicações** — caminhões, máquinas pesadas, tratores, empilhadeiras, ônibus e mais. Se é pesado, a gente tem ou encontra pra você.
+2️⃣ **Variedade de aplicações** — caminhões, máquinas pesadas, tratores, empilhadeiras, ônibus e mais. Se é pesado, nós temos ou encontramos para você.
 
-3️⃣ **Agilidade** — sabemos que veículo parado é dinheiro parado. Nosso atendimento é rápido, do orçamento à entrega.
+3️⃣ **Agilidade** — sabemos que veículo parado representa prejuízo. Nosso atendimento é rápido, do orçamento à entrega.
 
-4️⃣ **Atendimento direto e técnico** — falamos a língua de quem está na oficina e na estrada. Tira dúvida, indica a peça certa e resolve.
+4️⃣ **Atendimento direto e técnico** — nossa equipe entende a rotina de quem está na oficina e na estrada. Tira dúvidas, indica a peça certa e resolve.
 
-5️⃣ **Garantia e procedência** — peça nova, com nota fiscal e garantia. Segurança pra você e pra sua frota.
+5️⃣ **Garantia e procedência** — peça nova, com nota fiscal e garantia. Segurança para você e para sua frota.
 
-Na hora que sua máquina ou caminhão precisar, você já sabe onde encontrar. 💪🔧
+Quando sua máquina ou caminhão precisar, conte com a AZ Pesados. 💪🔧
 
 ## Hashtags sugeridas
 

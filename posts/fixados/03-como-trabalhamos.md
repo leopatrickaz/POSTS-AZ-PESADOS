@@ -11,21 +11,21 @@ Versão single-image com os 5 passos em timeline vertical, fundo grafite igual a
 
 ## Legenda
 
-⚙️ Como funciona comprar com a AZ Pesados?
+⚙️ Como funciona a compra com a AZ Pesados?
 
-1️⃣ **Você nos conta o problema** — qual veículo, qual máquina, qual é a necessidade. Pode chamar no direct ou WhatsApp.
+1️⃣ **Você nos conta o problema** — qual veículo, qual máquina e qual é a necessidade. Pode entrar em contato pelo direct ou WhatsApp.
 
-2️⃣ **A gente identifica a peça certa** — motor de partida ou alternador compatível com seu caminhão, trator, empilhadeira, ônibus ou máquina pesada.
+2️⃣ **Identificamos a peça certa** — motor de partida ou alternador compatível com seu caminhão, trator, empilhadeira, ônibus ou máquina pesada.
 
-3️⃣ **Orçamento rápido e transparente** — sem enrolação, sem letra miúda.
+3️⃣ **Orçamento rápido e transparente** — sem burocracia e sem letras miúdas.
 
 4️⃣ **Peça nova, separada e enviada** — com nota fiscal e garantia.
 
-5️⃣ **Suporte pós-venda** — ficamos disponíveis para tirar dúvidas de instalação e funcionamento.
+5️⃣ **Suporte pós-venda** — permanecemos disponíveis para tirar dúvidas de instalação e funcionamento.
 
-Simples assim: menos tempo parado, mais tempo rodando. 🚛🔩
+Simples assim: menos tempo parado, mais tempo em operação. 🚛🔩
 
-📲 Chama a gente no direct ou WhatsApp e vamos resolver.
+📲 Entre em contato pelo direct ou WhatsApp e vamos resolver.
 
 ## Hashtags sugeridas
 

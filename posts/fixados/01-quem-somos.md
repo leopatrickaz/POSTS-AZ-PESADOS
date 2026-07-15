@@ -7,7 +7,7 @@
 
 ![Post Quem Somos](imagens/01-quem-somos.jpg)
 
-Composição própria: título sobre frota parada/prejuízo ("Frota parada é prejuízo na certa.") e as duas peças que a AZ vende — motor de partida + alternador — lado a lado. Usa a paleta e tipografia do site (grafite `#1B1B1B`, vermelho vinho `#933235`, Space Grotesk/Inter) para o post "encaixar" no feed junto do site, sem repetir o layout do hero nem o texto do site.
+Composição própria: título sobre frota parada/prejuízo ("Frota parada é prejuízo imediato.") e as duas peças que a AZ vende — motor de partida + alternador — lado a lado. Usa a paleta e tipografia do site (grafite `#1B1B1B`, vermelho vinho `#933235`, Space Grotesk/Inter) para o post "encaixar" no feed junto do site, sem repetir o layout do hero nem o texto do site.
 
 As fotos das peças são temporárias — assim que a foto real for enviada, é só substituir o arquivo.
 
@@ -17,11 +17,11 @@ As fotos das peças são temporárias — assim que a foto real for enviada, é 
 
 Somos especialistas em **motores de partida e alternadores novos** para veículos pesados: caminhões, máquinas, tratores, empilhadeiras, ônibus e muito mais.
 
-Sabemos que quando um veículo pesado para, o prejuízo não espera. Por isso, nosso trabalho é simples: entregar peças novas, de qualidade, para você voltar a rodar o mais rápido possível.
+Sabemos que, quando um veículo pesado para, o prejuízo não espera. Por isso, nosso compromisso é simples: fornecer peças novas e de qualidade para que sua operação volte a funcionar o quanto antes.
 
-📍 Aqui você encontra peça nova (não recondicionada), com procedência e o suporte técnico que sua frota ou máquina precisa.
+📍 Aqui você encontra peças novas (não recondicionadas), com procedência garantida e o suporte técnico que sua frota ou máquina precisa.
 
-Segue a gente e fica por dentro de dicas, novidades e bastidores do nosso trabalho! 🚛⚡
+Siga nosso perfil e acompanhe novidades, dicas e bastidores do nosso trabalho. 🚛⚡
 
 ## Hashtags sugeridas
 

@@ -7,7 +7,7 @@
 
 ![Post Quem Somos](imagens/01-quem-somos.jpg)
 
-Arte gerada seguindo a identidade visual do site (site-az): grafite `#1B1B1B`, vermelho vinho `#933235`, tipografia Space Grotesk/Inter, foto real do alternador em destaque.
+Composição própria (faixa de texto + faixa de produto), usando a paleta e tipografia do site (grafite `#1B1B1B`, vermelho vinho `#933235`, Space Grotesk/Inter) para o post "encaixar" no feed junto do site — sem repetir o layout do hero nem o texto do site.
 
 ## Legenda
 

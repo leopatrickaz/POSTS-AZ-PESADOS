@@ -7,7 +7,7 @@
 
 ![Post Nossos Diferenciais](imagens/02-diferenciais.jpg)
 
-Versão single-image com os 4 principais diferenciais em grade de cards, mesma identidade visual do site (fundo claro, como a seção de Produtos/Serviços do site).
+Versão single-image com os 4 principais diferenciais em lista numerada com regras finas (não é o grid de cards do site) — mesma paleta clara/vermelho vinho, composição própria para o Instagram.
 
 ## Legenda
 
